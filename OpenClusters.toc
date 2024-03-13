@@ -1,0 +1,14 @@
+\babel@toc {russian}{}\relax 
+\beamer@sectionintoc {3}{История}{4}{0}{1}
+\beamer@sectionintoc {4}{Особенности строения}{4}{0}{2}
+\beamer@sectionintoc {5}{Основные способы классификации}{6}{0}{3}
+\beamer@subsectionintoc {5}{1}{Классификация Шепли}{6}{0}{3}
+\beamer@subsectionintoc {5}{2}{Классификация Трамплера}{7}{0}{3}
+\beamer@sectionintoc {6}{Методы определения параметров РЗС}{8}{0}{4}
+\beamer@subsectionintoc {6}{1}{Методы определения покраснений. Двухцветная диаграмма}{8}{0}{4}
+\beamer@subsectionintoc {6}{2}{Методы определения покраснений. Q-метод}{10}{0}{4}
+\beamer@sectionintoc {7}{Звездные ассоциации}{12}{0}{5}
+\beamer@subsectionintoc {7}{1}{История открытия}{12}{0}{5}
+\beamer@subsectionintoc {7}{2}{Характеристики}{12}{0}{5}
+\beamer@subsectionintoc {7}{3}{Классификация}{12}{0}{5}
+\beamer@sectionintoc {8}{Список литературы}{12}{0}{6}
