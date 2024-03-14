@@ -1,10 +1,15 @@
 \begin{thebibliography}{1}
 
-\bibitem{ShapleyClass}
-Harlow Shapley.
-\newblock {\em Star Clusters}.
-\newblock Harvard Observatory Monographs, No. 2. McGraw-Hill Book Company,
-  Inc., New York, London. [ADS: 1930HarMo...2.....S], 1930.
+\bibitem{Dambis}
+L.~N.~Berdnikov A.~K.~Dambis, E. V.~Glushkova.
+\newblock {\em Monthly Notices Royal Astron. Soc.}
+\newblock 465, 1505. 2017.
+
+\bibitem{Sanders}
+W.~L. Sanders.
+\newblock {\em An improved method for computing membership probabilities in
+  open clusters}.
+\newblock Astron. and Astrophys. - №14. – pp. 226-232, 1971.
 
 \bibitem{TrumpClass}
 Robert~Julius Trumpler.
@@ -12,5 +17,10 @@ Robert~Julius Trumpler.
   distribution of open star clusters}.
 \newblock Lick Observatory Bulletin, No. 420, Vol. 14, pp. 154-188 [ADS:
   1930LicOB.420..154T], 1930.
+
+\bibitem{AAA}
+Jing {Zhong}, Li~{Chen}, Yueyue {Jiang}, Songmei {Qin}, and Jinliang {Hou}.
+\newblock {New Insights into the Structure of Open Clusters in the Gaia Era}.
+\newblock {\em The Astronomical Journal}, 164(2):54, August 2022.
 
 \end{thebibliography}

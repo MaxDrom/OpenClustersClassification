@@ -1,14 +1,18 @@
 \babel@toc {russian}{}\relax 
-\beamer@sectionintoc {3}{История}{4}{0}{1}
-\beamer@sectionintoc {4}{Особенности строения}{4}{0}{2}
-\beamer@sectionintoc {5}{Основные способы классификации}{6}{0}{3}
-\beamer@subsectionintoc {5}{1}{Классификация Шепли}{6}{0}{3}
-\beamer@subsectionintoc {5}{2}{Классификация Трамплера}{7}{0}{3}
-\beamer@sectionintoc {6}{Методы определения параметров РЗС}{8}{0}{4}
-\beamer@subsectionintoc {6}{1}{Методы определения покраснений. Двухцветная диаграмма}{8}{0}{4}
-\beamer@subsectionintoc {6}{2}{Методы определения покраснений. Q-метод}{10}{0}{4}
-\beamer@sectionintoc {7}{Звездные ассоциации}{12}{0}{5}
-\beamer@subsectionintoc {7}{1}{История открытия}{12}{0}{5}
-\beamer@subsectionintoc {7}{2}{Характеристики}{12}{0}{5}
-\beamer@subsectionintoc {7}{3}{Классификация}{12}{0}{5}
-\beamer@sectionintoc {8}{Список литературы}{12}{0}{6}
+\beamer@sectionintoc {2}{Важность изучения РЗС}{3}{0}{1}
+\beamer@sectionintoc {3}{История}{5}{0}{2}
+\beamer@sectionintoc {4}{Особенности строения}{11}{0}{3}
+\beamer@sectionintoc {5}{Классификация Трамплера}{15}{0}{4}
+\beamer@sectionintoc {6}{Методы отделения звезд скопления от звезд поля}{16}{0}{5}
+\beamer@subsectionintoc {6}{1}{Кинематический метод}{16}{0}{5}
+\beamer@subsectionintoc {6}{2}{Статистический метод Сандерса}{17}{0}{5}
+\beamer@sectionintoc {8}{Методы определения параметров РЗС}{22}{0}{6}
+\beamer@subsectionintoc {8}{1}{Методы определения избытков цвета. Двухцветная диаграмма}{22}{0}{6}
+\beamer@subsectionintoc {8}{2}{Методы определения избытков цвета. Q-метод}{24}{0}{6}
+\beamer@subsectionintoc {8}{3}{Методы определения расстояний. Метод НГП}{25}{0}{6}
+\beamer@subsectionintoc {8}{4}{Методы определения расстояний. Цефеиды}{26}{0}{6}
+\beamer@subsectionintoc {8}{5}{Метод изохрон}{27}{0}{6}
+\beamer@sectionintoc {9}{Звездные ассоциации}{35}{0}{7}
+\beamer@subsectionintoc {9}{1}{Характеристики}{37}{0}{7}
+\beamer@subsectionintoc {9}{2}{Классификация}{38}{0}{7}
+\beamer@sectionintoc {10}{Список литературы}{39}{0}{8}

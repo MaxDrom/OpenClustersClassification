@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  13 MAR 2024 04:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.1.25)  14 MAR 2024 04:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1076,7 +1076,7 @@ Package hyperref Warning: Option `pdfauthor' has already been used,
 (hyperref)                setting the option has no effect on input line 33.
 
 
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
@@ -1084,109 +1084,418 @@ Overfull \hbox (191.66pt too wide) has occurred while \output is active
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
 /enc/dvips/cm-super/cm-super-t2a.enc}] (./OpenClusters.toc)
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [2
 
 ]
-<pictures/РЗС.jpg, id=173, 401.5pt x 372.39125pt>
+<pictures/РЗС.jpg, id=213, 401.5pt x 372.39125pt>
 File: pictures/РЗС.jpg Graphic file (type jpg)
 <use pictures/РЗС.jpg>
 Package pdftex.def Info: pictures/РЗС.jpg  used on input line 49.
 (pdftex.def)             Requested size: 136.91603pt x 126.99205pt.
 
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [3
 
  <./pictures/РЗС.jpg>]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 65.
-
- (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 65.
-
-
-(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [4
 
 ]
-<pictures/Class1.jpg, id=230, 760.8425pt x 803.0pt>
-File: pictures/Class1.jpg Graphic file (type jpg)
-<use pictures/Class1.jpg>
-Package pdftex.def Info: pictures/Class1.jpg  used on input line 71.
-(pdftex.def)             Requested size: 205.37926pt x 216.75163pt.
-
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [5
 
- <./pictures/Class1.jpg>]
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+]
+<pictures/Pl.jpg, id=297, 370.0224pt x 266.6763pt>
+File: pictures/Pl.jpg Graphic file (type jpg)
+<use pictures/Pl.jpg>
+Package pdftex.def Info: pictures/Pl.jpg  used on input line 80.
+(pdftex.def)             Requested size: 239.60567pt x 172.68646pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [6
 
-]
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+ <./pictures/Pl.jpg>]
+<pictures/Hyades.jpg, id=326, 1284.8pt x 1001.7425pt>
+File: pictures/Hyades.jpg Graphic file (type jpg)
+<use pictures/Hyades.jpg>
+Package pdftex.def Info: pictures/Hyades.jpg  used on input line 87.
+(pdftex.def)             Requested size: 239.60567pt x 186.81741pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [7
 
-]
-<pictures/Pl2Col.jpg, id=319, 490.83376pt x 393.47pt>
-File: pictures/Pl2Col.jpg Graphic file (type jpg)
-<use pictures/Pl2Col.jpg>
-Package pdftex.def Info: pictures/Pl2Col.jpg  used on input line 134.
-(pdftex.def)             Requested size: 154.03183pt x 123.47539pt.
+ <./pictures/Hyades.jpg>]
+<pictures/yasli.jpg, id=355, 1204.5pt x 1204.5pt>
+File: pictures/yasli.jpg Graphic file (type jpg)
+<use pictures/yasli.jpg>
+Package pdftex.def Info: pictures/yasli.jpg  used on input line 95.
+(pdftex.def)             Requested size: 171.14764pt x 171.14679pt.
 
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [8
 
- <./pictures/Pl2Col.jpg>]
-<pictures/Tr2Col.jpg, id=351, 510.90875pt x 391.4625pt>
-File: pictures/Tr2Col.jpg Graphic file (type jpg)
-<use pictures/Tr2Col.jpg>
-Package pdftex.def Info: pictures/Tr2Col.jpg  used on input line 153.
-(pdftex.def)             Requested size: 154.03183pt x 118.01904pt.
-
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+ <./pictures/yasli.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [9
 
- <./pictures/Tr2Col.jpg>]
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [10
 
 ]
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+LaTeX Font Info:    Trying to load font information for U+msa on input line 127
+.
+ (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 127
+.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
 [11
+
+]
+<pictures/Class1.jpg, id=470, 745.78625pt x 723.70375pt>
+File: pictures/Class1.jpg Graphic file (type jpg)
+<use pictures/Class1.jpg>
+Package pdftex.def Info: pictures/Class1.jpg  used on input line 138.
+(pdftex.def)             Requested size: 136.91603pt x 132.85611pt.
+
+Overfull \vbox (4.18256pt too high) detected at line 138
+ []
+
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[12
+
+ <./pictures/Class1.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[13
+
+]
+<pictures/Nebula.jpg, id=529, 803.0pt x 803.0pt>
+File: pictures/Nebula.jpg Graphic file (type jpg)
+<use pictures/Nebula.jpg>
+Package pdftex.def Info: pictures/Nebula.jpg  used on input line 159.
+(pdftex.def)             Requested size: 136.91603pt x 136.91254pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[14
+
+ <./pictures/Nebula.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[15
+
+]
+<pictures/Kin.jpg, id=585, 686.565pt x 457.71pt>
+File: pictures/Kin.jpg Graphic file (type jpg)
+<use pictures/Kin.jpg>
+Package pdftex.def Info: pictures/Kin.jpg  used on input line 198.
+(pdftex.def)             Requested size: 171.14764pt x 114.09198pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[16
+
+ <./pictures/Kin.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[17
+
+]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[18
+
+]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[19
+
+]
+<pictures/Sansan.jpg, id=710, 539.01375pt x 440.64626pt>
+File: pictures/Sansan.jpg Graphic file (type jpg)
+<use pictures/Sansan.jpg>
+Package pdftex.def Info: pictures/Sansan.jpg  used on input line 245.
+(pdftex.def)             Requested size: 239.60567pt x 195.88188pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[20
+
+ <./pictures/SanSan.jpg>]
+<pictures/Params.jpg, id=739, 867.24pt x 446.66875pt>
+File: pictures/Params.jpg Graphic file (type jpg)
+<use pictures/Params.jpg>
+Package pdftex.def Info: pictures/Params.jpg  used on input line 252.
+(pdftex.def)             Requested size: 308.06367pt x 158.66733pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[21
+
+ <./pictures/Params.jpg>]
+<pictures/Pl2Col.jpg, id=766, 490.83376pt x 393.47pt>
+File: pictures/Pl2Col.jpg Graphic file (type jpg)
+<use pictures/Pl2Col.jpg>
+Package pdftex.def Info: pictures/Pl2Col.jpg  used on input line 274.
+(pdftex.def)             Requested size: 154.03183pt x 123.47539pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[22
+
+ <./pictures/Pl2Col.jpg>]
+<pictures/Tr2Col.jpg, id=796, 510.90875pt x 391.4625pt>
+File: pictures/Tr2Col.jpg Graphic file (type jpg)
+<use pictures/Tr2Col.jpg>
+Package pdftex.def Info: pictures/Tr2Col.jpg  used on input line 293.
+(pdftex.def)             Requested size: 154.03183pt x 118.01904pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[23
+
+ <./pictures/Tr2Col.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[24
+
+]
+<pictures/NGP.jpg, id=852, 504.88625pt x 613.29124pt>
+File: pictures/NGP.jpg Graphic file (type jpg)
+<use pictures/NGP.jpg>
+Package pdftex.def Info: pictures/NGP.jpg  used on input line 329.
+(pdftex.def)             Requested size: 82.15045pt x 99.78497pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[25
+
+ <./pictures/NGP.jpg>]
+<pictures/Cep.jpg, id=881, 225.84375pt x 166.6225pt>
+File: pictures/Cep.jpg Graphic file (type jpg)
+<use pictures/Cep.jpg>
+Package pdftex.def Info: pictures/Cep.jpg  used on input line 350.
+(pdftex.def)             Requested size: 95.84079pt x 70.71065pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[26
+
+ <./pictures/Cep.jpg>]
+<pictures/isochrone.jpg, id=909, 757.83125pt x 502.87875pt>
+File: pictures/isochrone.jpg Graphic file (type jpg)
+<use pictures/isochrone.jpg>
+Package pdftex.def Info: pictures/isochrone.jpg  used on input line 369.
+(pdftex.def)             Requested size: 154.03183pt x 102.20837pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[27
+
+ <./pictures/isochrone.jpg>]
+<pictures/Iso1.jpg, id=941, 453.695pt x 597.23125pt>
+File: pictures/Iso1.jpg Graphic file (type jpg)
+<use pictures/Iso1.jpg>
+Package pdftex.def Info: pictures/Iso1.jpg  used on input line 387.
+(pdftex.def)             Requested size: 119.80283pt x 157.70052pt.
+<pictures/Iso2.jpg, id=942, 424.58624pt x 599.23875pt>
+File: pictures/Iso2.jpg Graphic file (type jpg)
+<use pictures/Iso2.jpg>
+Package pdftex.def Info: pictures/Iso2.jpg  used on input line 387.
+(pdftex.def)             Requested size: 111.24492pt x 157.00536pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[28
+
+ <./pictures/Iso1.jpg> <./pictures/Iso2.jpg>]
+File: pictures/Iso2.jpg Graphic file (type jpg)
+<use pictures/Iso2.jpg>
+Package pdftex.def Info: pictures/Iso2.jpg  used on input line 408.
+(pdftex.def)             Requested size: 85.57382pt x 120.76913pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[29
+
+]
+<pictures/Alsa.jpg, id=998, 760.8425pt x 463.7325pt>
+File: pictures/Alsa.jpg Graphic file (type jpg)
+<use pictures/Alsa.jpg>
+Package pdftex.def Info: pictures/Alsa.jpg  used on input line 414.
+(pdftex.def)             Requested size: 273.83728pt x 166.90819pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[30
+
+ <./pictures/Alsa.jpg>]
+<pictures/Isoh.jpg, id=1027, 728.7225pt x 486.81876pt>
+File: pictures/Isoh.jpg Graphic file (type jpg)
+<use pictures/Isoh.jpg>
+Package pdftex.def Info: pictures/Isoh.jpg  used on input line 435.
+(pdftex.def)             Requested size: 136.91862pt x 91.46399pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[31
+
+ <./pictures/Isoh.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[32
+
+]
+<pictures/Isoh1.jpg, id=1087, 469.755pt x 641.39626pt>
+File: pictures/Isoh1.jpg Graphic file (type jpg)
+<use pictures/Isoh1.jpg>
+Package pdftex.def Info: pictures/Isoh1.jpg  used on input line 467.
+(pdftex.def)             Requested size: 91.18576pt x 124.49922pt.
+<pictures/Isoh2.jpg, id=1088, 461.725pt x 642.4pt>
+File: pictures/Isoh2.jpg Graphic file (type jpg)
+<use pictures/Isoh2.jpg>
+Package pdftex.def Info: pictures/Isoh2.jpg  used on input line 467.
+(pdftex.def)             Requested size: 91.18576pt x 126.86035pt.
+<pictures/Isoh3.jpg, id=1089, 445.665pt x 628.3475pt>
+File: pictures/Isoh3.jpg Graphic file (type jpg)
+<use pictures/Isoh3.jpg>
+Package pdftex.def Info: pictures/Isoh3.jpg  used on input line 467.
+(pdftex.def)             Requested size: 85.48633pt x 120.52821pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[33
+
+ <./pictures/Isoh1.jpg> <./pictures/Isoh2.jpg> <./pictures/Isoh3.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[34
+
+]
+<pictures/Ass1.jpg, id=1144, 1104.125pt x 1082.0425pt>
+File: pictures/Ass1.jpg Graphic file (type jpg)
+<use pictures/Ass1.jpg>
+Package pdftex.def Info: pictures/Ass1.jpg  used on input line 489.
+(pdftex.def)             Requested size: 136.91603pt x 134.16527pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[35
+
+ <./pictures/Ass1.jpg>]
+<pictures/Ass2.jpg, id=1173, 1204.5pt x 851.18pt>
+File: pictures/Ass2.jpg Graphic file (type jpg)
+<use pictures/Ass2.jpg>
+Package pdftex.def Info: pictures/Ass2.jpg  used on input line 497.
+(pdftex.def)             Requested size: 205.37926pt x 145.12727pt.
+
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[36
+
+ <./pictures/Ass2.jpg>]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[37
+
+]
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
+ [][]  \T2A/cmr/m/n/6 ([])  
+ []
+
+[38
 
 ] (./OpenClusters.bbl
 
@@ -1254,11 +1563,11 @@ Package hyperref Warning: Glyph not defined in PU encoding,
 (hyperref)                removing `\cyrery' on input line 1.
 
 )
-Overfull \hbox (191.66pt too wide) has occurred while \output is active
+Overfull \hbox (253.67805pt too wide) has occurred while \output is active
  [][]  \T2A/cmr/m/n/6 ([])  
  []
 
-[12
+[39
 
 ]
 \tf@nav=\write6
@@ -1272,30 +1581,38 @@ Overfull \hbox (191.66pt too wide) has occurred while \output is active
 
  (./OpenClusters.aux)
 Package rerunfilecheck Info: File `OpenClusters.out' has not changed.
-(rerunfilecheck)             Checksum: ED19B80153FCAF25856EA3E72C7FF14D;3289.
+(rerunfilecheck)             Checksum: 3D9D134FF82DFBB7893780C3E4289260;5326.
  ) 
 Here is how much of TeX's memory you used:
- 24279 strings out of 477459
- 464825 string characters out of 5832156
- 1866388 words of memory out of 5000000
- 43927 multiletter control sequences out of 15000+600000
- 525441 words of font info for 67 fonts, out of 8000000 for 9000
+ 24596 strings out of 477459
+ 469781 string characters out of 5832156
+ 1869388 words of memory out of 5000000
+ 44158 multiletter control sequences out of 15000+600000
+ 528614 words of font info for 75 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 128i,15n,122p,530b,750s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0600.pfb></usr/sh
-are/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/
-fonts/type1/public/cm-super/sfrm0900.pfb></usr/share/texmf-dist/fonts/type1/pub
-lic/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sf
-rm1095.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1440.pfb></us
-r/share/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb>
-Output written on OpenClusters.pdf (12 pages, 644243 bytes).
+ 128i,15n,122p,557b,750s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pfb></usr/share/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmmi6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr6.pfb></usr/share/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/tex
+mf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/share/texmf-dist/fonts/t
+ype1/public/cm-super/sfrm0600.pfb></usr/share/texmf-dist/fonts/type1/public/cm-
+super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0900.
+pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share
+/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/share/texmf-dist/fon
+ts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public
+/cm-super/sfrm1440.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfti1
+095.pfb>
+Output written on OpenClusters.pdf (39 pages, 4233423 bytes).
 PDF statistics:
- 527 PDF objects out of 1000 (max. 8388607)
- 465 compressed objects within 5 object streams
- 43 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1398 PDF objects out of 1440 (max. 8388607)
+ 1264 compressed objects within 13 object streams
+ 106 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 

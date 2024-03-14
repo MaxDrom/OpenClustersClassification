@@ -3,44 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: OpenClusters.aux
 The style file: plain.bst
 Database file #1: bibliography.bib
-You've used 2 entries,
+Warning--empty title in Dambis
+Warning--empty year in Dambis
+You've used 4 entries,
             2118 wiz_defined-function locations,
-            508 strings with 4397 characters,
-and the built_in function-call counts, 450 in all, are:
-= -- 38
-> -- 14
+            522 strings with 4683 characters,
+and the built_in function-call counts, 1031 in all, are:
+= -- 89
+> -- 49
 < -- 0
-+ -- 6
-- -- 4
-* -- 18
-:= -- 85
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 6
++ -- 21
+- -- 16
+* -- 66
+:= -- 190
+add.period$ -- 12
+call.type$ -- 4
+change.case$ -- 17
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 24
-empty$ -- 45
-format.name$ -- 4
-if$ -- 93
+cite$ -- 6
+duplicate$ -- 45
+empty$ -- 84
+format.name$ -- 16
+if$ -- 204
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 4
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 16
+int.to.str$ -- 4
+missing$ -- 6
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 29
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 16
 quote$ -- 0
-skip$ -- 12
+skip$ -- 24
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
+substring$ -- 27
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 4
-warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 22
+type$ -- 12
+warning$ -- 2
+while$ -- 9
+width$ -- 5
+write$ -- 42
+(There were 2 warnings)
